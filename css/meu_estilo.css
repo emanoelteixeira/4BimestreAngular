@@ -1,0 +1,31 @@
+.margin-bottom{
+  margin-bottom: 10px;
+}
+.bt-criar {
+  font-size: 25px;
+  font-weight: bolder;
+}
+.borders {
+  border: 1px solid #337ab7;
+  border-radius: 10px;
+  padding: 15px;
+  -webkit-transition: 0.8s;
+  transition: 0.8s;
+  min-height: 210px;
+}
+.borders:hover {
+  background-color: #ABE7FF;
+  -webkit-transition: 0.8s;
+  transition: 0.8s;
+}
+.btn.btn-primary.bt-vota {
+    width: 100%;
+    font-size: 30px;
+    margin-bottom: 15px;
+}
+.criar_enq > h2 {
+    font-size: 23px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    float: right;
+}
